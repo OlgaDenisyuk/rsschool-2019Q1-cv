@@ -1,1 +1,2 @@
-[https://OlgaDenisyuk.github.io/rsschool-2019Q1-cv/cv] (https://OlgaDenisyuk.github.io/rsschool-2019Q1-cv/cv)
+[Markdown] (https://OlgaDenisyuk.github.io/rsschool-2019Q1-cv/cv)  
+[Html] (https://OlgaDenisyuk.github.io/rsschool-2019Q1-cv/)
