@@ -1,16 +1,16 @@
 
-** Contacts: **  
+**Contacts**  
 
 * Denisyuk Olga 
 * Belarus, Minsk, Voronyanskogo str, 50 
 * +375(44)736-33-58 
 * [denisykolga@yandex.ru](mailto:denisykolga@yandex.ru)  
 
-** Summary: **  
+**Summary**  
 
 * I want to become an experienced frontend developer, to work in a development team. I am interested in English, I want to develop language skills, to work with foreign partners, to see the world and different cultures.  
 
-** Skills: **  
+**Skills**  
 
 * HTML5; CSS3 
 * JS, peculiarities of the OOP JS 
@@ -19,7 +19,7 @@
 * SCM (svn, git) 
 * Software design patterns  
 
-** Code Examples  **  
+**Code Examples**  
 
 * [http://atlant-bt.ru/](http://atlant-bt.ru/)
 * [https://deshevle.ru/actions/bosch_variostyle/](https://deshevle.ru/actions/bosch_variostyle/)  
@@ -27,13 +27,13 @@
 * [http://liebherr-bt.ru/actions/liebherr_beige/](http://liebherr-bt.ru/actions/liebherr_beige/)  
 * [https://www.holodilnik.ru/delivery/#moscow](https://www.holodilnik.ru/delivery/#moscow)  
 
-** Professional Experience **  
+**Professional Experience**  
 
 * Teacher of mathematics and computer science, 2006-2011 
 * Frontend developer, 2011-2019, Edil Import Ltd. 
     * [https://www.holodilnik.ru/](https://www.holodilnik.ru/) 
     * [http://atlant-bt.ru/](http://atlant-bt.ru/) 
-    * [https://deshevle.ru/)  
+    * [https://deshevle.ru/](https://deshevle.ru/) 
     * [http://germany-bt.ru/](http://germany-bt.ru/)  
     * [http://liebherr-bt.ru/](http://liebherr-bt.ru/) 
     * [https://wine-butik.ru/](https://wine-butik.ru/) 
@@ -42,11 +42,11 @@
     * [http://onshop.ru/](http://onshop.ru/) 
     * [http://electrolux-shop.ru/](http://electrolux-shop.ru/)    
 	
-** Education ** 
+**Education** 
 
 * Belarusian State Pedagogical University named after Maxim Tank, 1999-2005  
 
-** Languages **  
+**Languages**  
 
 * Russian (native), English (fluent)  
 
