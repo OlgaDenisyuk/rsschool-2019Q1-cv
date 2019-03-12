@@ -1,16 +1,16 @@
 
-**Contacts:**  
+**Contacts**  
 
 * Denisyuk Olga 
 * Belarus, Minsk, Voronyanskogo str, 50 
 * +375(44)736-33-58 
 * [denisykolga@yandex.ru](mailto:denisykolga@yandex.ru)  
 
-**Summary:**  
+**Summary**  
 
 * I want to become an experienced frontend developer, to work in a development team. I am interested in English, I want to develop language skills, to work with foreign partners, to see the world and different cultures.  
 
-**Skills:**  
+**Skills**  
 
 * HTML5; CSS3 
 * JS, peculiarities of the OOP JS 
