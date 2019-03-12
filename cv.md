@@ -1,5 +1,5 @@
 
-** Contacts: **  
+**Contacts:**  
 
 * Denisyuk Olga 
 * Belarus, Minsk, Voronyanskogo str, 50 
@@ -33,7 +33,7 @@
 * Frontend developer, 2011-2019, Edil Import Ltd. 
     * [https://www.holodilnik.ru/](https://www.holodilnik.ru/) 
     * [http://atlant-bt.ru/](http://atlant-bt.ru/) 
-    * [https://deshevle.ru/)  
+    * [https://deshevle.ru/](https://deshevle.ru/) 
     * [http://germany-bt.ru/](http://germany-bt.ru/)  
     * [http://liebherr-bt.ru/](http://liebherr-bt.ru/) 
     * [https://wine-butik.ru/](https://wine-butik.ru/) 
